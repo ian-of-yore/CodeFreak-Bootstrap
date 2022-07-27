@@ -1,0 +1,10 @@
+.carousel-inner>.item {
+    position: relative;
+    max-height: 600px;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
