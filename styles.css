@@ -10,3 +10,11 @@
     top: 50%;
     transform: translateY(-50%);
 }
+
+#edu-text-centered {
+
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+}
