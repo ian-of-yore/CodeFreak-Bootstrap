@@ -1,3 +1,5 @@
+/* Positioning Carousel Captions and the Center */
+
 .carousel-inner>.item {
     position: relative;
     max-height: 600px;
