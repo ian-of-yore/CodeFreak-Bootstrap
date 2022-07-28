@@ -17,3 +17,7 @@
     left: 55%;
     transform: translate(-50%, -50%);
 }
+
+.edu-bg-primary {
+    background-color: #289BDE;
+}
