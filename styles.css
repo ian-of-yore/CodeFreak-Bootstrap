@@ -1,6 +1,6 @@
 /* Positioning Carousel Captions and the Center */
 
-.carousel-inner>.item {
+/* .carousel-inner>.item {
     position: relative;
     max-height: 600px;
 }
@@ -9,15 +9,22 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-}
+} */
+
+/* Custom CSS Styles */
 
 #edu-text-centered {
+    text-align: center;
     position: absolute;
-    top: 60%;
-    left: 55%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
 }
 
 .edu-bg-primary {
     background-color: #289BDE;
+}
+
+.edu-carousel-brightness {
+    filter: brightness(0.5)
 }
