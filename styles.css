@@ -1,18 +1,3 @@
-/* Positioning Carousel Captions and the Center */
-
-/* .carousel-inner>.item {
-    position: relative;
-    max-height: 600px;
-}
-
-.carousel-caption {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-} */
-
-/* Custom CSS Styles */
-
 #edu-text-centered {
     text-align: center;
     position: absolute;
